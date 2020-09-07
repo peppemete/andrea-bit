@@ -61,7 +61,7 @@ img {
 }
 .section-115{
     width: 100vw;
-    height: 46.7vw;
+    height: 64.7vw;
 }
 
 .section-100{
@@ -142,7 +142,8 @@ img {
 .img-case-summary{
     background-image: url('img/imgdasostituire1.png');
     width: 100%;
-    height: 17vw;
+    height: 25vw;
+    background-position-x: center;
     background-size: cover;
     background-attachment: fixed;
 }
